@@ -1,0 +1,1 @@
+vehicle detection and traffic management system using openCV and haar cascade algorithm for real time monitoring , vechicle detction plays an important role in safe driving assistance technology and detected traffic anomalies ensuring timely response and enhancing overall system efficiency
